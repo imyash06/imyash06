@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN and Android**
+- 🌱 I’m currently learning **MEARN and API Integration**
 
-- 💬 Ask me about **SpringBoot, Java**
+- 💬 Ask me about **Python, SpringBoot and Java**
 
 - 📫 How to reach me **ymankar6820@gmail.com**
 
